@@ -1,6 +1,6 @@
 {
   "JSPDate":"2020.08.18",
-  "SpringDate":"2020.05.18",
+  "SpringDate":"2020.08.18",
   "PHP5Date":"2020.08.31",
   "PHP7Date":"2020.07.16",
   "DotnetDate":"2020.05.28",
