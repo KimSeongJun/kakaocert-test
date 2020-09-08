@@ -1,1 +1,12 @@
-{"JSPDate":"2020.05.18","SpringDate":"2020.05.18","PHP5Date":"2020.08.31","PHP7Date":"2020.07.16","DotnetDate":"2020.05.28","DotnetCoreDate":"2020.05.28","NodeDate":"2020.08.31","PythonDate":"2020.05.28","ASPDate":"2020.05.28","RubyDate":"2020.06.23"}
+{
+  "JSPDate":"2020.05.18",
+  "SpringDate":"2020.05.18",
+  "PHP5Date":"2020.08.31",
+  "PHP7Date":"2020.07.16",
+  "DotnetDate":"2020.05.28",
+  "DotnetCoreDate":"2020.05.28",
+  "NodeDate":"2020.08.31",
+  "PythonDate":"2020.05.28",
+  "ASPDate":"2020.05.28",
+  "RubyDate":"2020.06.23"
+}
